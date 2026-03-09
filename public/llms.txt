@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את מגוון הכיפות הסרוגות המעוצבות שלנו - עבודת יד איכותית, עיצובים מסורתיים ועכשוויים. כיפה סרוגה מושלמת לכל אירוע ותקציב. הזמן עכשיו!
+
+### אודות
+https://example.com/about
+למעלה משני עשורים של מומחיות בסריגת כיפות איכותיות. הכירו את הצוות, את תהליך העבודה הייחודי ואת המחויבות שלנו לשירות הקהילה הדתית בישראל.
+
+### מדידות וטיפול
+https://example.com/guide
+איך לבחור את המידה המושלמת? כיצד לשמור על הכיפה הסרוגה לאורך זמן? מדריך מקיף עם טיפים מקצועיים למדידה נכונה, שטיפה ואחסון. קראו עכשיו!
+
+### צור קשר
+https://example.com/contact
+צוות המומחים שלנו כאן כדי לסייע! שאלות על מידות, עיצובים מיוחדים או הזמנות קבוצתיות? צור קשר עכשיו ונחזור אליך תוך 24 שעות. אנחנו פה בשבילך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Yamaka
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Yamaka
+
+### Category
+https://example.com/category/:slug
+מוצרים - Yamaka
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
